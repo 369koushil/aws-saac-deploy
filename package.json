@@ -1,0 +1,28 @@
+{
+  "name": "todo-cicd",
+  "version": "1.0.0",
+  "description": "a simple express server",
+  "keywords": [
+    "koushil"
+  ],
+  "homepage": "https://github.com/369koushil/aws-saac-deploy#readme",
+  "bugs": {
+    "url": "https://github.com/369koushil/aws-saac-deploy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/369koushil/aws-saac-deploy.git"
+  },
+  "license": "ISC",
+  "author": "koushil",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
